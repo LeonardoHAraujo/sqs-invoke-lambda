@@ -2,4 +2,4 @@
 
 *Powered by Leonardo Araújo*
 
-Create a cloudformation stack for SQS Queue invoke lambda funcrion.
+Create a cloudformation/terraform for SQS Queue invoke lambda funcrion.
